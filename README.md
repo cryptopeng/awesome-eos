@@ -1,4 +1,4 @@
-# <img src="https://eos.io/static/media/eos_logo_tm.e03b85cd.svg" width="5%">awesome-eos
+# <img src="https://static.eos.io/images/Landing/SectionTokenSale/eos_spinning_logo.gif" width="5%">awesome-eos
 eos blockchain develop information
 
 ## EOS.io官方
@@ -13,6 +13,8 @@ eos blockchain develop information
 * [使用说明文档](https://github.com/EOSIO/eos/wiki)
 * [api文档库](https://eosio.github.io/eos/)
 * [ICO智能合约](https://github.com/EOSIO/eos-token-distribution)
+* [官方视频](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
+* [官方视频-中文版](https://i.youku.com/i/UMjY0MTg2NjA0/videos?spm=a2hzp.8244740.0.0)
 
 
 
@@ -21,7 +23,7 @@ eos blockchain develop information
 * **Daniel Larimer** - [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/)
 * **Thomas B. Cox** - [LinkedIn](https://www.linkedin.com/in/thomasbcox/) / [Twitter](https://twitter.com/TBCox)
 * **Ian Grigg** - [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html)
-*  
+*  ​
 
 ## 工具
 
