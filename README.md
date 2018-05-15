@@ -13,8 +13,7 @@ eos blockchain develop information
 * [使用说明文档](https://github.com/EOSIO/eos/wiki)
 * [api文档库](https://eosio.github.io/eos/)
 * [ICO智能合约](https://github.com/EOSIO/eos-token-distribution)
-* [官方视频](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
-* [官方视频-中文版](https://i.youku.com/i/UMjY0MTg2NjA0/videos?spm=a2hzp.8244740.0.0)
+* [问答社区](https://eosio.stackexchange.com)
 
 
 
@@ -27,12 +26,22 @@ eos blockchain develop information
 
 ## 工具
 
-* [浏览器](https://eosmonitor.io/)
+* [eosmonitor浏览器](https://eosmonitor.io/)
+* [eosblock浏览器](https://eosblock.co/)
+* [eostracker浏览器](https://eostracker.io/)
+* [eosTracker源码仓库](https://github.com/EOSEssentials/EOSTracker)
+* [eosEssential工具仓库](https://github.com/EOSEssentials)
 * [空投信息1](https://www.airdropsforeos.com/)
 * [空投信息2](https://www.eosdrops.io/)
 * 微信小程序工具 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fqj58b343qj304o04odg6.jpg)
 * [eosICO进度](https://eosscan.io/)
 * [ICO工具](https://eoscountdown.com/)
+* 推荐IDE:[VSCode](https://code.visualstudio.com/)
+* [ICO链接](https://eos.io/distribution)
+* [Scatter钱包](http://www.scatter-eos.com/)
+* [walleteos钱包](https://walleteos.com/login)
+* [Webassembly在线开发工具](https://mbebenita.github.io/WasmExplorer/)
+* 
 
 ## 社区
 
@@ -41,7 +50,7 @@ eos blockchain develop information
 * [eos应用聚合1](https://eosindex.io/)
 * [eos应用聚合2](https://eosprojects.org/)
 * [eostalk论坛](https://eostalk.io/forums)
-* ​
+* 
 
 
 
@@ -63,13 +72,21 @@ eos blockchain develop information
 
 ## 电报群
 
-
+* [官方电报群](https://t.me/EOSproject)
+* [中文群](https://t.me/EOSCN)
+* [超级节点群](https://t.me/EOSPros)
+* [开发者群](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
 
 ## 技术文档
 
 * [eos技术栈介绍](https://steemit.com/eos/@eosio/introducing-eos-io-application-stack)
 * [eos智能合约开发](https://vimeo.com/channels/eosiohowto)
-* ​
+* [eos中文文档](http://eos.readthedocs.io/zh_CN/latest/)
 
+## 视频
 
+* [eos智能合约开发视频](https://vimeo.com/channels/eosiohowto)
+
+- [官方视频](https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg)
+- [官方视频-中文版](https://i.youku.com/i/UMjY0MTg2NjA0/videos?spm=a2hzp.8244740.0.0)
 
